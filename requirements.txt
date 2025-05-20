@@ -1,0 +1,9 @@
+Pandas 
+numpy 
+matplotlib
+scikit-learn
+dtale 
+modin
+vaex
+seaborn
+-e .      # to simultaneously run both setup.py and textfile when the libraries of the text file is being installed.
